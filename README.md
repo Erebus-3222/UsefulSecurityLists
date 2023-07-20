@@ -2,6 +2,17 @@
 
 A collection of stuff I find useful to know or have saved, feel free to fork I will add to the list as I find new stuff, currently it is a collection of lists found on github. Will combine more into a single list.
 
+
+
+## To Do
+
+- [ ] Common Nmap commands
+- [ ] List of Trojans and Worms
+- [ ] List of Bad USB scripts
+- [ ] Websites that provide free machines for use
+
+
+
 ## List
 
 ## Linux Commands
@@ -58,6 +69,8 @@ A collection of stuff I find useful to know or have saved, feel free to fork I w
 
 - `ls`: directory listing
 - `ls -al`: formatted listing with hidden files
+- `ls -R`: formatted listing all subdirectories within the current working directory
+- `ls -t | head -1` formatted listing showing last edited file
 - `cd dir`: change directory to 'dir'
 - `cd`: change to home directory
 - `pwd`: show current directory
@@ -167,6 +180,10 @@ A collection of stuff I find useful to know or have saved, feel free to fork I w
 - `Ctrl+R`: type to bring up a recent command
 - `!!`: repeats the last command
 - `exit`: log out of the current session
+
+
+### Nmap Commands
+
 
 
 
