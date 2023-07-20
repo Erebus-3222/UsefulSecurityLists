@@ -13,7 +13,7 @@ A collection of stuff I find useful to know or have saved, feel free to fork I w
 
 
 
-## List
+# List
 
 ## Linux Commands
 * [File Commands](#file-commands)
