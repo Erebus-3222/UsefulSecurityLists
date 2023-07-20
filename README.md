@@ -1,6 +1,6 @@
 # UsefulLists
 
-A collection of stuff I find useful to know or have saved, feel free to fork I will add to the list as I find new stuff, currently it is a collection of lists found on github. Will combine more into a single list.
+A collection of stuff I find useful to know or have saved, feel free to fork I will add to the list as I find new stuff, currently it is a collection of lists found on github and some information I added myself. Will combine more into a single list. If you want to contribute to the list just do a pull request. 
 
 
 
@@ -9,7 +9,7 @@ A collection of stuff I find useful to know or have saved, feel free to fork I w
 - [ ] Common Nmap commands
 - [ ] List of Trojans and Worms
 - [ ] List of Bad USB scripts
-- [ ] Websites that provide free machines for use
+- [ ] Separate sites into Free and Paid categories
 
 
 
@@ -672,7 +672,7 @@ A collection of stuff I find useful to know or have saved, feel free to fork I w
 
 * [DecoyMini](https://github.com/decoymini/DecoyMini/) - A highly scalable, safe, free enterprise honeypots
 
-#### Educational Sites
+### Educational Sites
 * [Vulnhub](https://www.vulnhub.com/) - VulnHub provides materials allowing anyone to gain practical hands-on experience with digital security, computer applications and network administration
 * [TryHackMe](https://tryhackme.com/) - TryHackMe is a free online platform for learning cyber security, using hands-on exercises and labs, all through your browser!
 * [Hackthebox](https://www.hackthebox.com/) - Hack The Box is a massive, online cybersecurity training platform, allowing individuals, companies, universities and all kinds of organizations around the world to level up their hacking skills.
