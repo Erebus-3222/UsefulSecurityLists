@@ -50,7 +50,7 @@ A collection of stuff I find useful to know or have saved, feel free to fork I w
 * [Cyber Range](#Cyber-Range)
 
 ## Education
-* [CTF challenges](#ctf-challenges)
+* [Educational Sites](#educational-sites)
 
 
 
@@ -672,7 +672,7 @@ A collection of stuff I find useful to know or have saved, feel free to fork I w
 
 * [DecoyMini](https://github.com/decoymini/DecoyMini/) - A highly scalable, safe, free enterprise honeypots
 
-#### CTF challenges
+#### Educational Sites
 * [Vulnhub](https://www.vulnhub.com/) - VulnHub provides materials allowing anyone to gain practical hands-on experience with digital security, computer applications and network administration
 * [TryHackMe](https://tryhackme.com/) - TryHackMe is a free online platform for learning cyber security, using hands-on exercises and labs, all through your browser!
 * [Hackthebox](https://www.hackthebox.com/) - Hack The Box is a massive, online cybersecurity training platform, allowing individuals, companies, universities and all kinds of organizations around the world to level up their hacking skills.
